@@ -28,12 +28,7 @@
 
 
 
-## 💡 Fun Snippet
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code+with+purpose;Build+with+passion;Always+learning;Never+settling&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&size=22">
+</p>
 
-```js
-(function repeat() {
-  eat();
-  sleep();
-  code();
-  repeat();
-})();
