@@ -6,14 +6,16 @@
 
 
 
-## 👩‍💻 About Me
+
+<h3 align="left">👩‍💻 About Me:</h3>
+
 - 🧠 **Full Stack Developer**
 - 🎓 Graduated from **Faculty of Computers and Artificial Intelligence**
 - 🛠 Tech Stack: Angular · SQL · HTML · CSS · Tailwind · Bootstrap · Data Science
 
 
 
-## 🌐 Connect with me:
+<h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandra-emad-849670258/" target="_blank">
@@ -23,12 +25,11 @@
 
 
 
-## 📊 Most Used Languages
+
+<h3 align="left">📊 Most Used Languages:</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraEmad&layout=compact&theme=radical)
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code+with+purpose;Build+with+passion;Always+learning;Never+settling&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&size=22">
-</p>
 
