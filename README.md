@@ -1,12 +1,10 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 
 <h1 align="center">Welcome to Sandra Emad's profile! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer&center=true&width=380&height=45&font=Fira+Code&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
-
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
 
